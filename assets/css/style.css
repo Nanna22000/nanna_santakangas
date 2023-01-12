@@ -6,23 +6,23 @@ body{
 }
 
 h1{
-    border-bottom: red;
-    color:red;
+    border-bottom: rgb(255, 0, 0);
+    color:rgb(255, 0, 0);
     font-size: 16px;
     text-align: center;
     text-transform: uppercase;
 }
 
 a{
-    color:red;
+    color:rgb(255, 0, 0);
 }
 
 a:hover{
-    color:blue;
+    color:rgb(0, 0, 255);
 }
 
 img{
-    border: 1px solid red;
+    border: 1px solid rgb(255, 0, 0);
     padding: 10px;
     opacity: 0.5;
     width: 250px;
