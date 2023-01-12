@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(243, 250, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color:rgb(255, 97, 97);
+}
+
+h1{
+    border-bottom: red;
+    color:red;
+    font-size: 16px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+a{
+    color:red;
+}
+
+a:hover{
+    color:blue;
+}
+
+img{
+    border: 1px solid red;
+    padding: 10px;
+    opacity: 0.5;
+    width: 250px;
+}
