@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+}
+
+header, footer {
+    background: purple;
+    height: 100px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    line-height: 100px;
+    margin: 0;
+}
+
+article {
+    padding: 5px;
+    margin: 5px;
+    background: aqua
+}
+
+.navbar {
+    float: left;
+    margin-right: 10px;
+    width: 150px;
+    min-height: 370px;
+    background-color: rgb(255, 255, 255);
+    padding: 1em;
+}
