@@ -3,28 +3,28 @@ body {
 }
 
 header, footer {
-    background: purple;
+    background: rgb(122, 0, 122);
     height: 100px;
 }
 
 h1 {
     text-align: center;
-    color: white;
+    color: rgb(255, 255, 255);
     line-height: 100px;
     margin: 0;
 }
 
 article {
     padding: 5px;
-    margin: 5px;
-    background: aqua
+    margin: 10px;
+    background: rgb(0, 255, 255)
 }
 
 .navbar {
     float: left;
     margin-right: 10px;
     width: 150px;
-    min-height: 370px;
+    min-height: 380px;
     background-color: rgb(255, 255, 255);
     padding: 1em;
 }
