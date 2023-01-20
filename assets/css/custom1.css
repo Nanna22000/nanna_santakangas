@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(255, 246, 234);
+    text-align: center;
+}
+
+header {
+    background-color: rgb(132, 91, 91);
+    color: rgb(255, 255, 255);
+}
+
+footer {
+    background-color: rgb(132, 91, 91);
+    color: rgb(255, 255, 255);
+    height: 70px;
+}
+
+.brown {
+    background-color: rgb(132, 91, 91);
+}
+
+.red {
+    background-color: rgb(255, 117, 117);
+}
+
+.blue {
+    background-color: rgb(127, 127, 255);
+}
+
+.green {
+    background-color: rgb(136, 255, 136);
+}
